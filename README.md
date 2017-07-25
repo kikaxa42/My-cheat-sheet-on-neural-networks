@@ -15,3 +15,9 @@ run notebook (запуск notebook)
 ```bash
   ipython notebook
 ```
+
+Anaconda Prompt
+
+```bash
+  python main.py
+```
