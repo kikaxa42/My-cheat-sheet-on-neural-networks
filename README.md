@@ -1,8 +1,17 @@
 # My-cheat-sheet-on-neural-networks
 My cheat sheet on neural networks
 
+```bash
 git clone https://github.com/kikaxa42/My-cheat-sheet-on-neural-networks
+```
 
-jupyter notebook password : установка пароля
+install password (установка пароля)
 
-ipython notebook : запуск notebook
+```bash
+  jupyter notebook password
+```
+run notebook (запуск notebook)
+
+```bash
+  ipython notebook
+```
