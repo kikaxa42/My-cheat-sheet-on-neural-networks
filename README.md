@@ -24,4 +24,4 @@ install password (установка пароля)
   python main.py
 ```
 
-(Полезные ресурсы)[http://www.lfd.uci.edu/~gohlke/pythonlibs/]
+[Полезные ресурсы](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
